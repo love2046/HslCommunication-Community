@@ -78,8 +78,7 @@ Install-Package HslCommunication
 * python: **Visual Studio Code**
 
 ## Contact
-* Email: hsl200909@163.com
-* ![reward](https://raw.githubusercontent.com/dathlin/HslCommunication/master/imgs/support.png)
+ 
 
 ## Supported Model and price [welcome to complete]
 #### Siemens
